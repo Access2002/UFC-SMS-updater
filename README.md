@@ -8,7 +8,7 @@ This scrapes the ufc/events website and gets all of the main card fights
 You could edit script so that it also shows the Pre lim fights and other fights but for now
 this only shows the main card fights
 
-#Compiling Requirements
+# Compiling Requirements
 
 - Twilio
 - BeautifulSoup
