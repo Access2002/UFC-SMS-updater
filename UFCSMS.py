@@ -29,7 +29,7 @@ for allfightinfo in soup.find_all('div', class_='c-card-event--result__info'):
         break
 
 message = client.messages.create(
-    to='+447590227798',
+    to='+0',
     from_="+441274288193",
     body=('Next MMA Fight: ' + headline + ', ' + date)
 )
